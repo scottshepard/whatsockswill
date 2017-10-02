@@ -2,8 +2,7 @@
 layout: post
 title:  "9/29 - Floral"
 description: Will's Socks for Friday, September 29th
-date:   2017-09-29 +0200
-categories: jekyll update
+date:   2017-09-29
 img: 2017-09-29_floral.jpg
 author: Scott Shepard
 ---
