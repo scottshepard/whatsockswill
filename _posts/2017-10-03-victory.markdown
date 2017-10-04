@@ -2,7 +2,7 @@
 layout: post
 title:  "10/3 - Victory"
 description: Will's Socks for Tuesday, October 3rd
-date:   2017-10-02
+date:   2017-10-03
 img: 2017-10-03_victory.jpg
 author: Scott Shepard
 ---

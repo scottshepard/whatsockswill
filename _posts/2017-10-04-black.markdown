@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "10/4 - Traditional Black"
+description: Will's Socks for Wednesday, October 4th
+date:   2017-10-04
+img: 2017-10-04_black.png
+author: Scott Shepard
+---
+
+Will is wearing traditional black socks with a light grey pattern today. They
+are uncharacteristically muted.
