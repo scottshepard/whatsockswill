@@ -7,9 +7,17 @@ First install s3cmd:
 
     brew install s3cmd  
 
-Then put it recursively to the espark-refresh bucket:
+Configure s3cmd
+
+    s3cmd --configure
+
+Create an IAM user on AWS and download the credentials, add them when prompted
+
+Now push the repo recursively to the appropriate AWS bucket:
   
     cd _site  
     s3cmd put --recursive * s3://whatsocksdoeswillhaveontoday.com/
 
-Use your eSpark Amazon AWS credentials.
+Or use the executable
+
+    bin/deploy

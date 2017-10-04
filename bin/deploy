@@ -1,0 +1,1 @@
+s3cmd put --recursive _site/* s3://whatsocksdoeswillhaveontoday.com/
