@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "10/5 - Rose"
+description: Will's Socks for Thursday, October 5th
+date:   2017-10-05
+img: 2017-10-05_rose.jpg
+author: Scott Shepard
+---
+
+Will's socks have one brilliant rose placed on the outside. It kinda looks
+like the rose from the Beauty and the Beast.
