@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "10/9 - Dinosaur"
+description: Will's Socks for Monday, October 9th
+date:   2017-10-09
+img: 2017-10-09_dinosaur.png
+author: Scott Shepard
+---
+
+Will has on his dinosaur socks today. These socks were last seen
+on [October 2nd](http://whatsocksdoeswillhaveontoday.com/dinosaur/). This 
+is the second time Will has worn his dino socks since we started keeping track.
