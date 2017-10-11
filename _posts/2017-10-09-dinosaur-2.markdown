@@ -3,7 +3,7 @@ layout: post
 title:  "10/9 - Dinosaur"
 description: Will's Socks for Monday, October 9th
 date:   2017-10-09
-img: 2017-10-09_dinosaur.png
+img: 2017-10-09_dinosaur.jpg
 author: Scott Shepard
 ---
 
