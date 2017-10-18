@@ -2,7 +2,7 @@
 
 A static blog dedicated to chronicling Will Wolfson's fantastic business socks.
  
-[http://whatsocksdoeswillhaveontoday.com/]
+http://whatsocksdoeswillhaveontoday.com/
 
 Setup
 ======
@@ -11,27 +11,29 @@ You will need some software first.
 
 Installing RVM
 
-  \curl -sSL https://get.rvm.io | bash -s stable --ruby
+    \curl -sSL https://get.rvm.io | bash -s stable --ruby
 
 Install homebrew 
 
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 Install ruby 2.4.1
 
-  rvm install "ruby-2.4.1"
+    rvm install "ruby-2.4.1"
 
 Install ruby gems
 
-  gem install bundler
-  bundle install
+    gem install bundler
+    bundle install
 
 Running Locally
 ========
 
-  jekyll serve
+    jekyll serve
 
 That's it! Visit http://localhost:4000/ to view the site.
+
+If you get an error, try `bundle exec jekyll serve`
 
 Pushing the website
 =======
