@@ -2,7 +2,7 @@
 
 A static blog dedicated to chronicling Will Wolfson's fantastic business socks.
  
-http://whatsocksdoeswillhaveontoday.com/
+http://whatsocksdoeswillhaveontoday.com
 
 Setup
 ======
@@ -29,11 +29,9 @@ Install ruby gems
 Running Locally
 ========
 
-    jekyll serve
+    bundle exec jekyll serve
 
-That's it! Visit http://localhost:4000/ to view the site.
-
-If you get an error, try `bundle exec jekyll serve`
+That's it! Visit http://localhost:4000 to view the site.
 
 Pushing the website
 =======
