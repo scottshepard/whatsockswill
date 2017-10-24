@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "10/24 - Bow Ties"
+description: Will's Socks for Tuesday, October 24th
+date:   2017-10-24
+img: 2017-10-24_bow_ties.jpg
+author: Scott Shepard
+---
+
+Will is wearing his bow tie socks today. This is the first instance of bow ties
+since we started keeping track.
+
+This is the 11th sock pattern so far.
