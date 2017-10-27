@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "10/27 - Planets"
+description: Will's Socks for Friday, October 27th
+date:   2017-10-27
+img: 2017-10-27_planets.jpg
+author: Scott Shepard
+---
+
+Will is wearing plantary socks today. This is the second time we've seen these
+lovely stellar socks. The first was [last Wednesday](http://whatsocksdoeswillhaveontoday.com/planets/).
