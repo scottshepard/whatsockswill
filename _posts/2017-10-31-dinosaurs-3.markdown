@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "10/31 - Dinosaur"
+title:  "10/31 - Dinosaurs"
 description: Will's Socks for Tuesday, October 31st
 date:   2017-10-31
-img: 2017-10-31_dinosaur.jpg
+img: 2017-10-31_dinosaurs.jpg
 author: Scott Shepard
 ---
 
 Will has on his dinosaur socks today! These socks were last seen
-on [October 9th](http://whatsocksdoeswillhaveontoday.com/dinosaur-2/). This is
+on [October 9th](/dinosaurs-2/). This is
 the first pair of socks to make it to the thrice-worn category. It's an exciting
 day for dino socks, but I'm pretty disappointed that Will isn't wearing spookier
 socks for Halloween.

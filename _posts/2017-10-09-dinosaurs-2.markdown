@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "10/9 - Dinosaur"
+title:  "10/9 - Dinosaurs"
 description: Will's Socks for Monday, October 9th
 date:   2017-10-09
-img: 2017-10-09_dinosaur.jpg
+img: 2017-10-09_dinosaurs.jpg
 author: Scott Shepard
 ---
 
 Will has on his dinosaur socks today. These socks were last seen
-on [October 2nd](http://whatsocksdoeswillhaveontoday.com/dinosaur/). This 
+on [October 2nd](/dinosaurs). This 
 is the second time Will has worn his dino socks since we started keeping track.
