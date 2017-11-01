@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "11/01 - Bow Ties"
+description: Will's Socks for Wednesday, November 1st
+date:   2017-11-01
+img: 2017-11-01_bow_ties.jpg
+author: Scott Shepard
+---
+
+Will is kicking off November in formal bow ties. This is the second time we've
+seen this socks. The first was on [October 24th](/bow-ties/).
