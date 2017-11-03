@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "11/03 - Planets"
+description: Will's Socks for Friday, November 3rd
+date:   2017-11-03
+img: 2017-11-03_planets.jpg
+author: Scott Shepard
+---
+
+Will is wearing plantary socks today. This is the third time we've seen this ode
+to Saturn. The last time these were seen was [last Friday](/planets-2/).
