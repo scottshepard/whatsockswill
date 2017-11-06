@@ -8,4 +8,4 @@ author: Scott Shepard
 ---
 
 Will is wearing plantary socks today. This is the second time we've seen these
-lovely stellar socks. The first was [last Wednesday](/planets/).
+lovely stellar socks. The first was [last Wednesday](/saturn/).

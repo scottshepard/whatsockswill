@@ -8,4 +8,4 @@ author: Scott Shepard
 ---
 
 Will is wearing plantary socks today. This is the third time we've seen this ode
-to Saturn. The last time these were seen was [last Friday](/planets-2/).
+to Saturn. The last time these were seen was [last Friday](/saturn-2/).
