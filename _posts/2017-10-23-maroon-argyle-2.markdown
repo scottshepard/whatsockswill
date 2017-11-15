@@ -8,7 +8,7 @@ author: Scott Shepard
 ---
 
 Will is wearing his argyle business socks today. This is the second time we've
-seen these socks, most recently [last Thursday](http://whatsocksdoeswillhaveontoday.com/maroon-argyle/).
+seen these socks, most recently [last Thursday](/maroon-argyle/).
 
 Will also has on different shoes today. An investigation by this reporter 
 revealed that his has his favorite shoes at the cobbler.
