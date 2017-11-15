@@ -10,4 +10,4 @@ author: Scott Shepard
 Will is wearing car pattened socks on an orange background. Very October of you Will.
 
 This is the second time we've seen these socks. The last time was on the [17th 
-of this month](http://whatsocksdoeswillhaveontoday.com/cars_on_orange/).
+of this month](/cars-on-orange/).
