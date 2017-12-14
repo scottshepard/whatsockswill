@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "12/12 - Vader"
+description: Will's Socks for Tuesday, December 12th
+date:   2017-12-12
+img: 2017-12-12_vader.jpg
+author: Scott Shepard
+---

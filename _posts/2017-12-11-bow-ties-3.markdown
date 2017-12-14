@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "12/11 - Bow Ties"
+description: Will's Socks for Monday, December 11th
+date:   2017-12-11
+img: 2017-12-11_bow_ties.jpg
+author: Scott Shepard
+---
